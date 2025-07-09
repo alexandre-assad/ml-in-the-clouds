@@ -1,0 +1,13 @@
+https://www.altexsoft.com/blog/automl  
+https://developers.google.com/machine-learning/crash-course/automl/benefits-limitations  
+https://www.solutelabs.com/blog/best-mlaas-platforms  
+https://arxiv.org/abs/2010.10777  
+https://developers.google.com/machine-learning/crash-course/automl/benefits-limitations  
+https://pixelplex.io/blog/machine-learning-as-a-service  
+https://www.examlabs.com/certification/a-comparative-overview-of-cloud-based-machine-learning-services-aws-azure-and-google-cloud/  
+https://www.examlabs.com/certification/a-comparative-overview-of-cloud-based-machine-learning-services-aws-azure-and-google-cloud/  
+https://www.cloudoptimo.com/blog/sagemaker-vs-azure-ml-vs-google-ai-platform-a-comprehensive-comparison\  
+https://futuremaster.net/amazon-sagemaker-vs-competitors-the-ultimate-ml-platform-comparison-2/  
+https://www.ankursnewsletter.com/p/azure-ml-vs-vertex-ai-vs-sagemaker  
+https://www.cloudexpat.com/blog/sagemaker-azure-ml-gcp-ai-2024/  
+https://www.cloudoptimo.com/blog/sagemaker-vs-azure-ml-vs-google-ai-platform-a-comprehensive-comparison/  
